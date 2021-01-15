@@ -26,7 +26,7 @@ Data pre-processing:
 * Feature selection 
 * Normalization 
 
-Apply several different supervised machine learning techniques and see which one yields the highest.
+Apply several different classification supervised machine learning techniques and see which one yields the highest accuracy.
 
 Models tested:
 
@@ -36,6 +36,6 @@ Models tested:
 * Decision Tree
 * Random Forest
 * SVM
-* Neural network
+* Neural network 
 
-Models are tested using K-fold cross validation (K=10). 
+Models performances are measured using K-fold cross validation (K=10). 
